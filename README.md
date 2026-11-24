@@ -4,11 +4,11 @@
 
 <div align="center">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=But+I+know+in+my+heart%2C+you're+not+a+constant+star." />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=But+I+know+in+my+heart%2C+you're+not+a+constant+star." />
 <br>
 <p">──────── ⋆ ˚｡🪐 ⋆｡°────────</p>
 
-<p style="font-size: 24 px; 𝔐𝔬𝔩 𝔬𝔯 𝔈𝔲𝔭 ་༘ ℌ𝔢 / ℌ𝔦𝔪 ࿐ </p>
+<p style="font-size: 46 px; 𝔐𝔬𝔩 𝔬𝔯 𝔈𝔲𝔭 ་༘ ℌ𝔢 / ℌ𝔦𝔪 ࿐ </p>
 
 <br>
 
