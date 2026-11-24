@@ -10,7 +10,7 @@
 ─────────── &nbsp;&nbsp;&nbsp;&nbsp; ⋆ ˚｡ &nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp; ⋆｡° &nbsp;&nbsp;&nbsp;&nbsp; ───────────
 </p>
 <br>
-<p style="font-size: 46 px;"> 𝔐𝔬𝔩 𝔬𝔯 𝔈𝔲𝔭 ་༘ ℌ𝔢 / ℌ𝔦𝔪 ࿐ </p>
+<p style="font-size: 46 px;"> 𝔐𝔬𝔩 &nbsp;𝔬𝔯 &nbsp;𝔈𝔲𝔭 &nbsp;་༘ &nbsp;ℌ𝔢 &nbsp;/&nbsp; ℌ𝔦𝔪&nbsp; ࿐ </p>
 <br>
 <a href="https://m0lt3n.atabook.org/">
   ⸝⸝ 𝔞𝔱𝔞 ⸝⸝
