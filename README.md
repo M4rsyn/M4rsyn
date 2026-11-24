@@ -1,3 +1,2 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1159308045701087333/1574763544568668160/lv_0_20261124192724.gif?ex=6b06d456&is=6b0582d6&hm=8b3e76464fce6b78e6014ecb99eeb7d267a6e273f5b89b5bffb8979e7eff4c95&" 
-  width="800">
+<img src="https://cdn.discordapp.com/attachments/1159308045701087333/1574764976592257095/lv_0_20261124193222.gif?ex=6b06d5ac&is=6b05842c&hm=4b9ae0af57c640ff0caf43e51bdf3c2d987e2b461823294053fa970aeae13e24&"  width="800">
