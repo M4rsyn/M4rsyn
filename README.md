@@ -1,16 +1,21 @@
 <div align="center">
   <img src="lv_0_20261124193222.gif"250%">
 </div>
+
 <div align="center">
 
-<p>─────── ⋆ ˚｡🪐 ⋆｡°───────</p>
+<p>──── ⋆ ˚｡🪐 ⋆｡°────</p>
+
+<br>
 
 <p>
-  ִֶָ𓂃 ࣪˖ ִֶָMol or Eup ་༘ He / Him ࿐
-<br><br>
+  𝔐𝔬𝔩 𝔬𝔯 𝔈𝔲𝔭 ་༘ ℌ𝔢 / ℌ𝔦𝔪 ࿐
+</p>
 
-<a href="https://m0lt3n.atabook.org/" target="_blank">
- ⸝⸝ ata ⸝⸝
+<br>
+
+<a href="https://m0lt3n.atabook.org/">
+  ⸝⸝ 𝔞𝔱𝔞 ⸝⸝
 </a>
 
 </div>
