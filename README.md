@@ -1,1 +1,2 @@
+<div align="center">
 <img src="https://cdn.discordapp.com/attachments/1159308045701087333/1574759764217307287/norton-campbell-fools-gold.gif?ex=6b06d0d1&is=6b057f51&hm=aa9580f7ffa44b23e39cca15b9e95546e76369e8ac2b65774ac42973aa4647c2&" width="800">
