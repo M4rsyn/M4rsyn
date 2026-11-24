@@ -4,7 +4,7 @@
 
 <div align="center">
 <br>
-<p style="font-size: 63 px ;">────── ⋆ ˚｡🪐 ⋆｡°──────</p>
+<p style="font-size: 75 px ;">────── ⋆ ˚｡🪐 ⋆｡°──────</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=16&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=But+I+know+in+my+heart%2C+you're+not+a+constant+star." />
 <br>
