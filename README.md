@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="lv_0_20261124193222.gif"190%">
+  <img src="lv_0_20261124193222.gif"250%">
 </div>
 <div align="center">
 
-<p>──── ⋆ ˚｡🪐 ⋆｡°────</p>
+<p>─────── ⋆ ˚｡🪐 ⋆｡°───────</p>
 
 <p>
   ִֶָ𓂃 ࣪˖ ִֶָMol or Eup ་༘ He / Him ࿐
