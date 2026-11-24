@@ -10,7 +10,7 @@
 <br>
 
 <p>
-  style="font-size: 24px; 𝔐𝔬𝔩 𝔬𝔯 𝔈𝔲𝔭 ་༘ ℌ𝔢 / ℌ𝔦𝔪 ࿐
+ <p style="font-size: 24px; 𝔐𝔬𝔩 𝔬𝔯 𝔈𝔲𝔭 ་༘ ℌ𝔢 / ℌ𝔦𝔪 ࿐
 </p>
 
 <br>
